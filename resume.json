@@ -1,0 +1,409 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Thibaut Taglialatela",
+    "label": "Développeur Web PHP / Symfony",
+    "image": "",
+    "email": "thibauttagliatela@gmail.com",
+    "phone": "",
+    "url": "https://www.portfolio-taglialatela.fr/",
+    "summary": "Après une quinzaine d'années dans le milieu pétrolier j'ai entamé une reconversion en développement web en effectuant la formation de développeur web de la Wild Code School, formation conclue par l'obtention de mon Titre Professionnel de Développeur Web et Web Mobile en septembre 2022.\n\nPendant cette formation j'ai principalement étudié PHP et le framework Symfony mais suis également formé en frontend sur HTML/CSS et Javascript ainsi qu'au langage SQL et l'usage de Git. J'ai également travaillé avec Bootstrap 5. Je suis formé aux méthodes Agiles et notamment SCRUM.\n\nAprès mes 5 mois de formation à la Wild Code School, j'ai embrayé par un stage de 4 mois au sein de la société SharpCTMS. Pendant mon stage j'ai travaillé sur le site web de l'orchestre Symphonique du Sud-Ouest et j'ai également pu aborder les tests fonctionnels avec Selenium et le DevOps avec Docker et Kubernetes.\n\nAutrement, je fais du violoncelle dans un orchestre amateur et suis également joueur de jeu de rôle à mes heures perdues.\n\nJe suis maintenant à la recherche d'un poste de développeur web PHP Symfony et/ou d'une alternance, principalement sur Pau ou en région parisienne.\n\nCi-dessous le lien de mon repo GitHub :\nhttps://github.com/thibauttaglialatela\n\nMon portfolio : https://www.portfolio-taglialatela.fr/",
+    "location": {
+      "countryCode": "FR",
+      "address": "France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "thibauttaglialatela",
+        "url": "https://www.linkedin.com/in/thibauttaglialatela/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SharpCTMS",
+      "position": "Développeur web",
+      "startDate": "2022-05-31",
+      "endDate": "2022-09-30",
+      "highlights": [],
+      "summary": "Développement du site web de l'orchestre symphonique du sud ouest (OSSO)\nTechnos utilisés : Symfony 6 - MySQL - Bootstrap - Javascript",
+      "url": "https://www.linkedin.com/company/sharpctms/",
+      "location": "Pau, Nouvelle-Aquitaine, France"
+    },
+    {
+      "name": "MAGUELONE",
+      "position": "Développeur web",
+      "startDate": "2021-12-31",
+      "endDate": "2022-02-28",
+      "highlights": [],
+      "summary": "Création du site web multilingues de l'association Maguelone, comprenant une partie blog et une partie association avec un calendrier de concerts.",
+      "url": "https://www.linkedin.com/company/maguelone/",
+      "location": "Pau, Nouvelle-Aquitaine, France"
+    },
+    {
+      "name": "Last chance 4 food",
+      "position": "Développeur web",
+      "startDate": "2021-10-31",
+      "endDate": "2021-10-31",
+      "highlights": [],
+      "summary": "Réalisation d'un site web de vente de paniers repas et d'articles alimentaires à DLC courte.",
+      "url": ""
+    },
+    {
+      "name": "Blue-Mumakil",
+      "position": "Développeur web",
+      "startDate": "2021-09-30",
+      "endDate": "2021-09-30",
+      "highlights": [],
+      "summary": "Réalisation du trombinoscope de la promo PHP Blue Mumakil de la Wild Code School.\nSite réalisé entiérement en HTML, CSS et PHP.",
+      "url": ""
+    },
+    {
+      "name": "SPIE Oil & Gas Services",
+      "position": "Gestionnaire de documents techniques Géosciences",
+      "startDate": "2016-01-31",
+      "endDate": "2019-12-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/spie-oil-&-gas-services/",
+      "location": "Pau, Nouvelle-Aquitaine, France"
+    },
+    {
+      "name": "SPIE Oil & Gas Services",
+      "position": "Technicien-géologue",
+      "startDate": "2005-01-31",
+      "endDate": "2015-12-31",
+      "highlights": [],
+      "summary": "Vectorisation de logs et de lithologie sous Neuralog.\nVectorisation de cartes sous Neuramap.\nNumérisation de documents : logs, rapports, cartes.",
+      "url": "https://www.linkedin.com/company/spie-oil-&-gas-services/"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Orchestre symphonique du sud-ouest",
+      "position": "Bibliothécaire",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Gestion du stock de partitions d'un orchestre symphonique amateur.",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Wild Code School",
+      "area": "Programmation / développeur informatique, général",
+      "studyType": "Titre professionnel (TP) de niveau 5",
+      "startDate": "2021-09-30",
+      "endDate": "2022-02-28",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "France Université numérique",
+      "area": "Informatique",
+      "studyType": "Apprendre à coder avec PYTHON",
+      "startDate": "2020-05-31",
+      "endDate": "2020-06-30",
+      "score": "diplôme obtenu",
+      "courses": []
+    },
+    {
+      "institution": "Université Pierre et Marie Curie (Paris VI)",
+      "area": "Sciences de la terre et de l'Univers",
+      "studyType": "Maîtrise",
+      "startDate": "1999-12-31",
+      "endDate": "2001-12-31",
+      "score": "",
+      "courses": [
+        "null - Stratigraphie séquentielle",
+        "null - Micropaléontologie et paléontologie",
+        "null - Télédétection",
+        "null - Stratigraphie",
+        "null - Hydrologie, hydrogéologie"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "10 secrets pour réussir sa recherche d’emploi ",
+      "issuer": "LinkedIn",
+      "startDate": "2020-05-31",
+      "url": "http://www.linkedin.com/learning/10-secrets-pour-reussir-sa-recherche-d-emploi"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Symfony",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Selenium WebDriver",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tests Selenium",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vectorisations de cartes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Pétrole et gaz",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion de carrière",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hydrogéologie",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Neuralog",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Recherche d'emploi",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Onshore",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Petroleum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Neuramap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Préparation aux entretiens",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "logiciels SIG QGis et ArcGis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Upstream",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gaz",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "cartes géologiques",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Pétrole",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Notions de C et FORTRAN",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Framework Symfony",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Géophysique",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "logiciel surfer",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Travail d’équipe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Géologie pétrolière",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adaptabilité",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Architecture MVC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Feuilles de style en cascade (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sédimentologie",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sciences de la Terre",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Diagraphies",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "Anglais"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Espagnol"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Français"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Italien"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Cécile Do Nascimento",
+      "reference": "C’est au cours de ma formation à la Wild Code School que j’ai rencontré Thibaut qui a été un de mes piliers, bienveillant et pédagogue, il est toujours présent pour aider son prochain . L’esprit de solidarité n’est pas un vain mot pour Thibaut. Organisé, volontaire, rigoureux, il va au bout des choses avec une réelle envie de grandir en compétence et d’évoluer. il a une grande finesse des relations humaines. Perfectionniste, il travail le code de façon clair et propre. C’est un privilège et une joie d’avoir Thibaut dans son équipe."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Orchestre Symphonique du Sud-Ouest",
+      "startDate": "2022-05-31",
+      "summary": "Réalisation de l'application web de l'OSSO (Orchestre Symphonique du Sud-Ouest)\nSite responsive réalisé à l'aide du framework Symfony 6 et de Bootstrap 5.\nLe site comporte une partie utilisateur et une partie administrateur accessible par login et mot de passe.\nExemples de fonctionnalités : FullCalendar, simple-DataTables, reCaptcha V3\nGitHub du projet : https://github.com/thibauttaglialatela/osso-website",
+      "url": "http://osso64.fr.fhor9931.odns.fr/",
+      "endDate": "2022-05-31"
+    },
+    {
+      "name": "Thibaut Taglialatela",
+      "startDate": "2001-06-30",
+      "summary": "Mémoire Maîtrise \nApports de l'étude des foraminifères dans la connaissance des environnements sédimentaires des mangroves de quelques lagunes d'Oman",
+      "url": null,
+      "endDate": "2001-06-30"
+    },
+    {
+      "name": "Maguelonne",
+      "startDate": "2021-12-31",
+      "summary": "Développement du site web de l'association Maguelonne.\nSite développé avec Symfony pour la partie backend et Bootstrap pour la partie Frontend.",
+      "url": "https://github.com/WildCodeSchool/remote-blue-php-2109-p3-maguelonne",
+      "endDate": "2022-02-28"
+    },
+    {
+      "name": "Manobot",
+      "startDate": "2022-01-31",
+      "summary": "Hackaton janvier 2022 organisé par Manomano et la Wild Code School.\nDéveloppement en 3 jours d'un chatBot appelé Manobot dans le cadre d'un hackaton. Ceci dans le but d'améliorer l'expérience utilisateur des visiteurs du site de Manomano.\nProjet développé avec :\nSymfony pour la partie back\nMD Bootstrap, javascript pour la partie Front",
+      "url": "https://github.com/Thomas905/hackathon-mano-mano",
+      "endDate": "2022-01-31"
+    },
+    {
+      "name": "trombinoscope de la promo Blue-Mumakil de la Wild Code School en Remote",
+      "startDate": "2021-09-30",
+      "summary": "Réalisation du trombinoscope de notre promo de la Wild Code School sous la forme d'un site web statique.\nLes contraintes étaient les suivante :\nHTML/CSS natif.\nPas de Framework CSS.\nLe projet devait être réalisé en deux semaines",
+      "url": "https://github.com/Flow78300/wcsDirectory",
+      "endDate": "2021-10-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
