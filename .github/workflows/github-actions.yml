@@ -32,11 +32,15 @@ jobs:
         run: |
           npm install
           npx resumed render --theme even
-          mkdir public/
-          mv resume.html ./public/index.html
+          mkdir docs/
+          mv resume.html docs/index.html
           
       - name: Upload Github Pages artifact
         uses: actions/upload-pages-artifact@v1.0.5
         with:
-          path: public/
+          path: _site/
           retention-days: 7
+      - name: Deploy Github Pages
+  # You may pin to the exact commit or the version.
+  # uses: ptienchuan/deploy-github-pages-action@abff2ab6d0300d579780d56bd3e70254c5b15403
+        uses: ptienchuan/deploy-github-pages-action@1.0.0
