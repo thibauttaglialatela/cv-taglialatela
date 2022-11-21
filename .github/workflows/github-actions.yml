@@ -38,7 +38,7 @@ jobs:
       - name: Upload Github Pages artifact
         uses: actions/upload-pages-artifact@v1.0.5
         with:
-          path: _site/
+          path: docs/
           retention-days: 7
       - name: Deploy Github Pages
   # You may pin to the exact commit or the version.
