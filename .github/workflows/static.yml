@@ -30,16 +30,16 @@ jobs:
     container:
         image: node:latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
       - name: run a multiline script
         run: |
           npm install
           npx resumed render --theme even
           mkdir public/
           mv resume.html public/index.html
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Setup Pages
-        uses: actions/configure-pages@v2
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
