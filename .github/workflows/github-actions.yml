@@ -30,7 +30,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: install dependencies and render the CV
         run: |
-          npm install,
-          npx resumed render --theme even,
-          mkdir public/,
-          mv resume.html ./public/index.html,
+          npm install
+          npx resumed render --theme even
+          mkdir public/
+          mv resume.html ./public/index.html
