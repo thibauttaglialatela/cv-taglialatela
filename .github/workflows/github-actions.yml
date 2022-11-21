@@ -34,3 +34,9 @@ jobs:
           npx resumed render --theme even
           mkdir public/
           mv resume.html ./public/index.html
+          
+      - name: Upload Github Pages artifact
+        uses: actions/upload-pages-artifact@v1.0.5
+        with:
+          path: public/
+          retention-days: 7
